@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="195" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="195" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+      <class name="qaclickacademy.appiumTest">
+        <test-method status="PASS" signature="operamini()[pri:0, instance:qaclickacademy.appiumTest@38ae61]" name="operamini" duration-ms="0" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operamini -->
+        <test-method status="PASS" signature="truecaller()[pri:0, instance:qaclickacademy.appiumTest@38ae61]" name="truecaller" duration-ms="0" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- truecaller -->
+      </class> <!-- qaclickacademy.appiumTest -->
+      <class name="qaclickacademy.RestapiTest">
+        <test-method status="PASS" signature="webinterface()[pri:0, instance:qaclickacademy.RestapiTest@127982]" name="webinterface" duration-ms="35" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webinterface -->
+        <test-method status="PASS" signature="webui()[pri:0, instance:qaclickacademy.RestapiTest@127982]" name="webui" duration-ms="1" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webui -->
+      </class> <!-- qaclickacademy.RestapiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="bluedart()[pri:0, instance:qaclickacademy.SeleniumTest@c6f5b]" name="bluedart" duration-ms="0" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bluedart -->
+        <test-method status="PASS" signature="travelsky()[pri:0, instance:qaclickacademy.SeleniumTest@c6f5b]" name="travelsky" duration-ms="1" started-at="2019-03-20T19:57:57 IST" finished-at="2019-03-20T19:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelsky -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
